@@ -55,7 +55,7 @@ int main(void) {
 
 			getch();
 			exit(0);
-		} //if (count >= 50) 
+		} //if (count >= 15) 
 	} //while (rep == 1) 
 
 	printf("Normal END\n");
